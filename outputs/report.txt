@@ -1,0 +1,7 @@
+TRANSACTION ANALYSIS REPORT
+==================================================
+total_transactions: 6000
+total_amount: 9052148.99
+suspicious_count: 471
+suspicious_amount: 4565074.78
+top_categories: {'Transfer': 5141053.33, 'Housing': 2071373.31, 'Electronics': 840166.18, 'Healthcare': 469834.86, 'Shopping': 178522.97}

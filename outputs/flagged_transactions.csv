@@ -1,0 +1,472 @@
+transaction_id,account_id,timestamp,amount,merchant,category,location,status,is_suspicious,time_diff
+TXN0598,ACC1068,2024-02-18 06:46:00,5806.82,Zelle,Transfer,Charlotte,completed,True,27720.0
+TXN1254,ACC1068,2024-02-21 11:21:00,14464.5,MoneyGram,Transfer,Chicago,completed,True,51240.0
+TXN4455,ACC1068,2024-03-08 00:44:00,10173.59,MoneyGram,Transfer,Mumbai,flagged,True,3600.0
+TXN4872,ACC1068,2024-03-10 01:20:00,14114.35,Zelle,Transfer,Phoenix,flagged,True,73860.0
+TXN1327,ACC1091,2024-02-21 19:53:00,11744.16,MoneyGram,Transfer,Portland,flagged,True,107880.0
+TXN2019,ACC1091,2024-02-25 04:32:00,12533.9,Wire Transfer,Transfer,Dallas,completed,True,47820.0
+TXN0522,ACC1175,2024-02-17 21:51:00,11633.71,PayPal Transfer,Transfer,Bangkok,completed,True,91800.0
+TXN1657,ACC1175,2024-02-23 10:24:00,6629.1,Zelle,Transfer,Detroit,completed,True,8160.0
+TXN4956,ACC1175,2024-03-10 11:13:00,6161.59,Western Union,Transfer,Cleveland,completed,True,6180.0
+TXN5154,ACC1175,2024-03-11 10:17:00,10723.85,Western Union,Transfer,Dallas,pending,True,83040.0
+TXN0827,ACC1186,2024-02-19 09:33:00,7045.33,Wire Transfer,Transfer,Los Angeles,completed,True,63900.0
+TXN0907,ACC1186,2024-02-19 18:50:00,5907.92,MoneyGram,Transfer,Seattle,flagged,True,21840.0
+TXN2622,ACC1186,2024-02-28 02:49:00,11109.57,Cash App,Transfer,Minneapolis,completed,True,128940.0
+TXN4318,ACC1186,2024-03-07 08:45:00,8888.87,Bank Transfer,Transfer,Madrid,completed,True,166200.0
+TXN4509,ACC1186,2024-03-08 07:01:00,11551.31,Venmo,Transfer,Berlin,completed,True,32940.0
+TXN2039,ACC1193,2024-02-25 06:48:00,11668.77,MoneyGram,Transfer,Amsterdam,completed,True,6960.0
+TXN4849,ACC1193,2024-03-09 22:41:00,14314.46,PayPal Transfer,Transfer,Las Vegas,completed,True,281580.0
+TXN4866,ACC1199,2024-03-10 00:37:00,5152.66,Cash App,Transfer,New York,completed,True,35160.0
+TXN4081,ACC1286,2024-03-06 05:06:00,6815.96,Bank Transfer,Transfer,Nashville,completed,True,26400.0
+TXN1339,ACC1352,2024-02-21 21:08:00,6790.47,Zelle,Transfer,San Francisco,completed,True,228780.0
+TXN3971,ACC1352,2024-03-05 16:20:00,8612.22,Bank Transfer,Transfer,Bangkok,flagged,True,143640.0
+TXN0982,ACC1411,2024-02-20 03:34:00,10236.21,Western Union,Transfer,Atlanta,flagged,True,169920.0
+TXN5158,ACC1411,2024-03-11 10:46:00,12765.8,PayPal Transfer,Transfer,Dallas,flagged,True,154800.0
+TXN5432,ACC1411,2024-03-12 18:39:00,7442.93,Wire Transfer,Transfer,Cleveland,pending,True,23340.0
+TXN2192,ACC1419,2024-02-26 00:48:00,9904.19,Wire Transfer,Transfer,Denver,completed,True,58800.0
+TXN3459,ACC1419,2024-03-03 04:30:00,3281.35,Mortgage Payment,Housing,Phoenix,completed,True,360.0
+TXN5171,ACC1436,2024-03-11 12:20:00,7337.19,Venmo,Transfer,Las Vegas,flagged,True,14040.0
+TXN0218,ACC1587,2024-02-16 10:24:00,5122.39,Western Union,Transfer,San Francisco,flagged,True,
+TXN3210,ACC1587,2024-03-01 23:33:00,9036.75,Bank Transfer,Transfer,San Antonio,flagged,True,91200.0
+TXN1300,ACC1594,2024-02-21 16:42:00,6111.95,Western Union,Transfer,Detroit,pending,True,41040.0
+TXN1611,ACC1594,2024-02-23 05:01:00,7208.56,Zelle,Transfer,Orlando,completed,True,37380.0
+TXN0187,ACC1696,2024-02-16 06:52:00,10438.31,Western Union,Transfer,Boston,flagged,True,26760.0
+TXN0297,ACC1696,2024-02-16 19:39:00,12442.43,PayPal Transfer,Transfer,Minneapolis,completed,True,46020.0
+TXN0097,ACC1763,2024-02-15 20:16:00,11735.84,MoneyGram,Transfer,New York,flagged,True,
+TXN0703,ACC1763,2024-02-18 19:06:00,5479.28,Venmo,Transfer,Charlotte,completed,True,17400.0
+TXN0941,ACC1763,2024-02-19 22:43:00,6980.93,PayPal Transfer,Transfer,Bangkok,completed,True,97080.0
+TXN2563,ACC1763,2024-02-27 19:59:00,7269.01,MoneyGram,Transfer,Sydney,flagged,True,126120.0
+TXN2544,ACC1827,2024-02-27 17:51:00,5442.15,Wire Transfer,Transfer,Tokyo,pending,True,82500.0
+TXN4173,ACC1827,2024-03-06 15:53:00,8707.85,Zelle,Transfer,Toronto,completed,True,81360.0
+TXN4744,ACC1827,2024-03-09 10:24:00,9580.76,Venmo,Transfer,Rome,flagged,True,44340.0
+TXN5471,ACC1852,2024-03-12 23:15:00,6405.79,Cash App,Transfer,Detroit,completed,True,900.0
+TXN0641,ACC1876,2024-02-18 11:45:00,14831.92,Cash App,Transfer,San Antonio,flagged,True,1020.0
+TXN0642,ACC1876,2024-02-18 11:53:00,7440.9,Bank Transfer,Transfer,Toronto,completed,True,480.0
+TXN1641,ACC1876,2024-02-23 08:31:00,5807.47,Venmo,Transfer,Seattle,completed,True,8940.0
+TXN4452,ACC1876,2024-03-08 00:25:00,6813.54,Zelle,Transfer,Tampa,completed,True,76140.0
+TXN3075,ACC1980,2024-03-01 07:42:00,7937.93,Cash App,Transfer,Amsterdam,completed,True,297480.0
+TXN3205,ACC1980,2024-03-01 22:55:00,10536.38,PayPal Transfer,Transfer,Austin,flagged,True,38640.0
+TXN5690,ACC1980,2024-03-14 00:47:00,6114.88,PayPal Transfer,Transfer,Rome,flagged,True,58020.0
+TXN2868,ACC2208,2024-02-29 07:38:00,10635.6,Wire Transfer,Transfer,Austin,flagged,True,9780.0
+TXN1285,ACC2225,2024-02-21 14:52:00,11816.63,Venmo,Transfer,Lagos,completed,True,21900.0
+TXN3444,ACC2225,2024-03-03 02:43:00,6898.49,Cash App,Transfer,Sydney,flagged,True,180000.0
+TXN4692,ACC2225,2024-03-09 04:26:00,10116.95,Cash App,Transfer,Seattle,completed,True,720.0
+TXN2808,ACC2247,2024-02-29 00:35:00,8234.09,Wire Transfer,Transfer,Seattle,completed,True,38520.0
+TXN4023,ACC2247,2024-03-05 22:25:00,13521.04,MoneyGram,Transfer,Rome,flagged,True,20940.0
+TXN0267,ACC2326,2024-02-16 16:14:00,10919.5,Wire Transfer,Transfer,Berlin,completed,True,57960.0
+TXN2099,ACC2400,2024-02-25 13:58:00,6444.46,Bank Transfer,Transfer,Houston,flagged,True,180360.0
+TXN3274,ACC2400,2024-03-02 06:58:00,6389.31,Cash App,Transfer,Berlin,completed,True,72900.0
+TXN5885,ACC2400,2024-03-14 23:32:00,14399.21,PayPal Transfer,Transfer,Bangkok,completed,True,112440.0
+TXN0595,ACC2465,2024-02-18 06:29:00,12145.16,Wire Transfer,Transfer,Bangkok,flagged,True,231840.0
+TXN2071,ACC2465,2024-02-25 10:40:00,5631.03,PayPal Transfer,Transfer,Toronto,flagged,True,34140.0
+TXN2226,ACC2465,2024-02-26 04:43:00,10345.4,Venmo,Transfer,Austin,completed,True,5100.0
+TXN0890,ACC2507,2024-02-19 16:50:00,7207.02,Western Union,Transfer,Madrid,flagged,True,4440.0
+TXN2333,ACC2507,2024-02-26 17:15:00,6239.36,Western Union,Transfer,San Antonio,completed,True,34560.0
+TXN5192,ACC2507,2024-03-11 14:44:00,12398.98,Wire Transfer,Transfer,Atlanta,completed,True,87120.0
+TXN5669,ACC2507,2024-03-13 22:23:00,7574.66,Cash App,Transfer,San Antonio,flagged,True,42000.0
+TXN0323,ACC2539,2024-02-16 22:36:00,10010.3,Zelle,Transfer,Philadelphia,completed,True,103680.0
+TXN0659,ACC2539,2024-02-18 13:52:00,11242.19,Zelle,Transfer,Tampa,flagged,True,110520.0
+TXN3251,ACC2539,2024-03-02 04:15:00,9464.35,Venmo,Transfer,Phoenix,completed,True,53880.0
+TXN4134,ACC2539,2024-03-06 11:23:00,11792.84,PayPal Transfer,Transfer,Las Vegas,completed,True,105240.0
+TXN4215,ACC2539,2024-03-06 20:45:00,4882.52,Cash App,Transfer,Lagos,pending,True,540.0
+TXN5363,ACC2539,2024-03-12 10:46:00,7830.53,PayPal Transfer,Transfer,Bangkok,completed,True,51000.0
+TXN0558,ACC2566,2024-02-18 02:10:00,9649.92,Cash App,Transfer,Philadelphia,completed,True,
+TXN1170,ACC2566,2024-02-21 01:25:00,14924.29,PayPal Transfer,Transfer,Sydney,flagged,True,110580.0
+TXN3618,ACC2566,2024-03-03 23:04:00,11242.96,Bank Transfer,Transfer,Bangkok,completed,True,307980.0
+TXN4481,ACC2566,2024-03-08 03:44:00,11978.08,Zelle,Transfer,Las Vegas,completed,True,42420.0
+TXN4677,ACC2566,2024-03-09 02:41:00,7617.03,Wire Transfer,Transfer,Boston,completed,True,21300.0
+TXN5275,ACC2566,2024-03-12 00:27:00,12595.29,MoneyGram,Transfer,Minneapolis,completed,True,40260.0
+TXN1172,ACC2589,2024-02-21 01:43:00,13004.09,Zelle,Transfer,Atlanta,completed,True,1680.0
+TXN3232,ACC2589,2024-03-02 02:03:00,5344.41,PayPal Transfer,Transfer,Philadelphia,completed,True,165720.0
+TXN0415,ACC2629,2024-02-17 09:22:00,14042.73,Bank Transfer,Transfer,Cleveland,flagged,True,84420.0
+TXN3781,ACC2629,2024-03-04 18:06:00,5607.38,MoneyGram,Transfer,Amsterdam,flagged,True,134460.0
+TXN0528,ACC2742,2024-02-17 22:31:00,5180.15,MoneyGram,Transfer,Nashville,completed,True,4200.0
+TXN1334,ACC2742,2024-02-21 20:38:00,12164.28,Zelle,Transfer,Las Vegas,completed,True,145500.0
+TXN1935,ACC2742,2024-02-24 18:45:00,10005.25,Western Union,Transfer,Tokyo,pending,True,61200.0
+TXN0445,ACC2812,2024-02-17 12:59:00,14212.55,Venmo,Transfer,Paris,flagged,True,97800.0
+TXN4557,ACC2812,2024-03-08 12:38:00,8257.67,Bank Transfer,Transfer,Los Angeles,completed,True,99240.0
+TXN5309,ACC2812,2024-03-12 04:20:00,5200.9,Wire Transfer,Transfer,Seattle,flagged,True,72300.0
+TXN0213,ACC2855,2024-02-16 09:52:00,6836.95,Zelle,Transfer,Mumbai,completed,True,29580.0
+TXN4098,ACC2855,2024-03-06 07:02:00,6977.84,Cash App,Transfer,Berlin,flagged,True,8880.0
+TXN1684,ACC2866,2024-02-23 13:33:00,12994.48,Wire Transfer,Transfer,Dallas,pending,True,8400.0
+TXN5410,ACC2866,2024-03-12 16:13:00,14584.02,PayPal Transfer,Transfer,Nashville,completed,True,21600.0
+TXN1815,ACC2940,2024-02-24 04:46:00,5680.91,Western Union,Transfer,Charlotte,completed,True,34200.0
+TXN4353,ACC2940,2024-03-07 12:46:00,5119.77,Zelle,Transfer,Boston,flagged,True,60480.0
+TXN5008,ACC2940,2024-03-10 17:12:00,5107.23,Western Union,Transfer,Miami,completed,True,226260.0
+TXN1128,ACC2952,2024-02-20 20:40:00,7132.78,Bank Transfer,Transfer,Detroit,completed,True,38760.0
+TXN1533,ACC2952,2024-02-22 19:52:00,11704.48,Cash App,Transfer,Boston,completed,True,169920.0
+TXN2876,ACC3307,2024-02-29 08:29:00,4046.78,Maintenance Fee,Housing,San Antonio,completed,True,420.0
+TXN5525,ACC3316,2024-03-13 05:31:00,13968.44,PayPal Transfer,Transfer,Mumbai,flagged,True,12900.0
+TXN3778,ACC3401,2024-03-04 17:50:00,9427.57,Bank Transfer,Transfer,Amsterdam,flagged,True,15120.0
+TXN5327,ACC3401,2024-03-12 06:29:00,11723.93,Zelle,Transfer,Rome,completed,True,224520.0
+TXN0882,ACC3423,2024-02-19 15:56:00,14722.43,Bank Transfer,Transfer,San Antonio,completed,True,312600.0
+TXN2244,ACC3423,2024-02-26 06:44:00,8469.6,Wire Transfer,Transfer,Rome,completed,True,370440.0
+TXN0877,ACC3486,2024-02-19 15:23:00,9227.07,Venmo,Transfer,Madrid,completed,True,21840.0
+TXN2147,ACC3594,2024-02-25 19:31:00,9616.82,Zelle,Transfer,Minneapolis,completed,True,318300.0
+TXN3716,ACC3594,2024-03-04 10:34:00,8992.91,Cash App,Transfer,Amsterdam,flagged,True,8400.0
+TXN1636,ACC3597,2024-02-23 07:54:00,8413.73,PayPal Transfer,Transfer,Dubai,completed,True,97800.0
+TXN4764,ACC3597,2024-03-09 12:48:00,10399.66,Bank Transfer,Transfer,Paris,flagged,True,30900.0
+TXN0654,ACC3610,2024-02-18 13:13:00,13602.36,Bank Transfer,Transfer,Minneapolis,completed,True,85980.0
+TXN3128,ACC3610,2024-03-01 13:56:00,1566.1,Micro Center,Electronics,Amsterdam,completed,True,420.0
+TXN0352,ACC3647,2024-02-17 01:59:00,8091.7,PayPal Transfer,Transfer,Philadelphia,completed,True,4260.0
+TXN1229,ACC3647,2024-02-21 08:26:00,7886.45,Wire Transfer,Transfer,Charlotte,flagged,True,109920.0
+TXN1529,ACC3647,2024-02-22 19:28:00,6667.83,Cash App,Transfer,Berlin,pending,True,77040.0
+TXN4485,ACC3647,2024-03-08 04:10:00,13452.32,Wire Transfer,Transfer,Toronto,pending,True,131460.0
+TXN4748,ACC3647,2024-03-09 11:00:00,13028.2,PayPal Transfer,Transfer,San Diego,completed,True,29040.0
+TXN5423,ACC3665,2024-03-12 17:41:00,13133.73,MoneyGram,Transfer,Seattle,pending,True,9120.0
+TXN5604,ACC3665,2024-03-13 14:53:00,8368.22,Western Union,Transfer,Rome,flagged,True,6060.0
+TXN2738,ACC3683,2024-02-28 16:21:00,12982.74,Zelle,Transfer,Tampa,flagged,True,20580.0
+TXN4364,ACC3757,2024-03-07 14:07:00,8347.95,Western Union,Transfer,Portland,completed,True,84060.0
+TXN3278,ACC3779,2024-03-02 07:24:00,12045.09,PayPal Transfer,Transfer,Paris,completed,True,57300.0
+TXN1458,ACC3828,2024-02-22 11:05:00,6357.88,Western Union,Transfer,Rome,flagged,True,20340.0
+TXN1640,ACC3828,2024-02-23 08:24:00,8177.46,PayPal Transfer,Transfer,Paris,pending,True,76740.0
+TXN4384,ACC3828,2024-03-07 16:31:00,10854.25,Wire Transfer,Transfer,Chicago,flagged,True,113820.0
+TXN0554,ACC3873,2024-02-18 01:39:00,9881.8,Venmo,Transfer,Toronto,completed,True,20820.0
+TXN3596,ACC3873,2024-03-03 20:28:00,7530.98,Cash App,Transfer,Atlanta,completed,True,4260.0
+TXN3788,ACC3873,2024-03-04 18:55:00,9980.03,Zelle,Transfer,Seattle,completed,True,11460.0
+TXN1201,ACC3891,2024-02-21 05:12:00,8139.32,Western Union,Transfer,Paris,completed,True,171900.0
+TXN5370,ACC3891,2024-03-12 11:34:00,13682.87,Western Union,Transfer,Dubai,completed,True,8760.0
+TXN5553,ACC3891,2024-03-13 08:52:00,9838.63,Western Union,Transfer,Orlando,completed,True,2280.0
+TXN1930,ACC3922,2024-02-24 18:14:00,11979.23,MoneyGram,Transfer,Bangkok,flagged,True,14820.0
+TXN4013,ACC3922,2024-03-05 21:07:00,12843.03,MoneyGram,Transfer,Toronto,completed,True,128460.0
+TXN5485,ACC3922,2024-03-13 00:56:00,8922.43,Zelle,Transfer,Cleveland,completed,True,38160.0
+TXN2129,ACC3997,2024-02-25 17:26:00,6663.74,Venmo,Transfer,Sydney,completed,True,129420.0
+TXN3898,ACC4062,2024-03-05 07:51:00,14853.5,Zelle,Transfer,Madrid,flagged,True,17700.0
+TXN0059,ACC4104,2024-02-15 15:49:00,8886.66,Cash App,Transfer,Boston,completed,True,
+TXN1296,ACC4104,2024-02-21 16:16:00,6151.05,PayPal Transfer,Transfer,Las Vegas,completed,True,50760.0
+TXN1772,ACC4104,2024-02-23 23:46:00,5141.06,PayPal Transfer,Transfer,Cleveland,flagged,True,35880.0
+TXN2568,ACC4157,2024-02-27 20:32:00,9820.11,Wire Transfer,Transfer,Las Vegas,completed,True,211080.0
+TXN4380,ACC4157,2024-03-07 15:56:00,10676.14,Zelle,Transfer,Dubai,completed,True,108600.0
+TXN5307,ACC4157,2024-03-12 04:08:00,7630.38,MoneyGram,Transfer,Los Angeles,flagged,True,7260.0
+TXN2255,ACC4282,2024-02-26 08:00:00,10664.16,Venmo,Transfer,Mexico City,completed,True,168780.0
+TXN3474,ACC4282,2024-03-03 06:23:00,13683.56,Western Union,Transfer,Madrid,completed,True,371580.0
+TXN4150,ACC4282,2024-03-06 13:14:00,10984.38,MoneyGram,Transfer,Charlotte,completed,True,283860.0
+TXN4842,ACC4282,2024-03-09 21:49:00,12602.36,Bank Transfer,Transfer,Paris,flagged,True,124740.0
+TXN1312,ACC4361,2024-02-21 18:00:00,12978.3,Bank Transfer,Transfer,Paris,completed,True,98880.0
+TXN4164,ACC4361,2024-03-06 14:45:00,5739.45,Wire Transfer,Transfer,Mumbai,flagged,True,143100.0
+TXN5619,ACC4361,2024-03-13 16:34:00,12628.41,PayPal Transfer,Transfer,Minneapolis,completed,True,84840.0
+TXN2225,ACC4412,2024-02-26 04:30:00,11490.95,Venmo,Transfer,Los Angeles,completed,True,14460.0
+TXN4119,ACC4412,2024-03-06 09:33:00,11977.65,Venmo,Transfer,Dubai,completed,True,21720.0
+TXN0723,ACC4477,2024-02-18 21:18:00,6585.71,MoneyGram,Transfer,Charlotte,completed,True,13320.0
+TXN1595,ACC4477,2024-02-23 03:07:00,9313.59,Zelle,Transfer,London,completed,True,10620.0
+TXN3226,ACC4477,2024-03-02 01:23:00,2172.19,Samsung Store,Electronics,Toronto,pending,True,540.0
+TXN4732,ACC4477,2024-03-09 09:07:00,11133.95,Venmo,Transfer,Minneapolis,completed,True,419160.0
+TXN2888,ACC4479,2024-02-29 09:51:00,6513.9,PayPal Transfer,Transfer,Singapore,completed,True,426540.0
+TXN4238,ACC4479,2024-03-06 23:31:00,9168.5,PayPal Transfer,Transfer,Detroit,completed,True,19380.0
+TXN2754,ACC4524,2024-02-28 18:17:00,6310.33,MoneyGram,Transfer,Tampa,flagged,True,13500.0
+TXN2991,ACC4524,2024-02-29 21:53:00,11585.49,Western Union,Transfer,Austin,completed,True,30600.0
+TXN0254,ACC4550,2024-02-16 14:40:00,10068.2,Wire Transfer,Transfer,San Diego,flagged,True,
+TXN0878,ACC4550,2024-02-19 15:24:00,5915.23,Cash App,Transfer,Phoenix,completed,True,17040.0
+TXN4997,ACC4550,2024-03-10 15:55:00,13496.03,Bank Transfer,Transfer,Dubai,completed,True,220140.0
+TXN2492,ACC4565,2024-02-27 11:48:00,7923.25,Wire Transfer,Transfer,Tokyo,flagged,True,12840.0
+TXN2765,ACC4565,2024-02-28 19:38:00,9631.5,Western Union,Transfer,Chicago,completed,True,84480.0
+TXN4503,ACC4565,2024-03-08 06:24:00,8370.65,MoneyGram,Transfer,Cleveland,completed,True,187680.0
+TXN4990,ACC4565,2024-03-10 15:11:00,12650.46,PayPal Transfer,Transfer,Berlin,completed,True,17640.0
+TXN5714,ACC4642,2024-03-14 03:39:00,7082.24,Venmo,Transfer,San Antonio,flagged,True,97800.0
+TXN5941,ACC4642,2024-03-15 06:07:00,7786.89,Venmo,Transfer,Tokyo,completed,True,30900.0
+TXN2444,ACC4771,2024-02-27 06:13:00,14634.83,Western Union,Transfer,Detroit,flagged,True,181020.0
+TXN2698,ACC4771,2024-02-28 11:44:00,13469.7,Bank Transfer,Transfer,Boston,flagged,True,21180.0
+TXN2860,ACC4771,2024-02-29 06:36:00,9965.05,Bank Transfer,Transfer,Cleveland,completed,True,67920.0
+TXN5636,ACC4771,2024-03-13 18:29:00,9813.28,Wire Transfer,Transfer,Madrid,completed,True,106740.0
+TXN3219,ACC4773,2024-03-02 00:31:00,11283.97,Venmo,Transfer,Rome,completed,True,57720.0
+TXN3696,ACC4773,2024-03-04 08:17:00,11449.2,Zelle,Transfer,Rome,completed,True,134820.0
+TXN3896,ACC4773,2024-03-05 07:32:00,5844.97,Zelle,Transfer,Lagos,completed,True,64440.0
+TXN5189,ACC4773,2024-03-11 14:27:00,11593.03,Bank Transfer,Transfer,Orlando,completed,True,96120.0
+TXN1820,ACC4840,2024-02-24 05:20:00,6365.43,Wire Transfer,Transfer,Miami,completed,True,99060.0
+TXN2635,ACC4840,2024-02-28 04:23:00,12161.76,Venmo,Transfer,Philadelphia,completed,True,77040.0
+TXN3276,ACC4840,2024-03-02 07:17:00,8530.38,PayPal Transfer,Transfer,Los Angeles,completed,True,269640.0
+TXN3202,ACC4848,2024-03-01 22:39:00,8823.36,Venmo,Transfer,San Francisco,flagged,True,113880.0
+TXN3499,ACC4848,2024-03-03 09:12:00,5725.2,MoneyGram,Transfer,Dallas,completed,True,64920.0
+TXN3638,ACC4848,2024-03-04 01:27:00,5792.79,MoneyGram,Transfer,Houston,pending,True,29940.0
+TXN5430,ACC4884,2024-03-12 18:26:00,10894.2,Bank Transfer,Transfer,Austin,completed,True,46440.0
+TXN5710,ACC4884,2024-03-14 03:10:00,11966.49,Zelle,Transfer,Denver,flagged,True,85560.0
+TXN1695,ACC4897,2024-02-23 14:40:00,7473.86,PayPal Transfer,Transfer,Amsterdam,completed,True,92280.0
+TXN1103,ACC4995,2024-02-20 17:40:00,5807.27,Bank Transfer,Transfer,Houston,completed,True,14880.0
+TXN1653,ACC4995,2024-02-23 09:48:00,9355.93,Wire Transfer,Transfer,Rome,flagged,True,9240.0
+TXN3877,ACC4995,2024-03-05 05:23:00,10848.98,Western Union,Transfer,Austin,completed,True,97500.0
+TXN5127,ACC4995,2024-03-11 07:13:00,5199.48,MoneyGram,Transfer,Miami,completed,True,186540.0
+TXN1206,ACC5005,2024-02-21 05:44:00,8458.62,Zelle,Transfer,Atlanta,completed,True,17880.0
+TXN1286,ACC5005,2024-02-21 14:58:00,5039.29,Bank Transfer,Transfer,Phoenix,completed,True,33240.0
+TXN2398,ACC5005,2024-02-27 00:43:00,10148.68,Wire Transfer,Transfer,London,completed,True,1620.0
+TXN3440,ACC5005,2024-03-03 02:19:00,9890.3,MoneyGram,Transfer,Bangkok,completed,True,11940.0
+TXN3523,ACC5005,2024-03-03 12:04:00,7999.36,Bank Transfer,Transfer,Toronto,completed,True,35100.0
+TXN0938,ACC5032,2024-02-19 22:29:00,13934.44,MoneyGram,Transfer,Berlin,pending,True,109260.0
+TXN1752,ACC5032,2024-02-23 21:24:00,14061.66,Cash App,Transfer,San Francisco,flagged,True,52680.0
+TXN5887,ACC5032,2024-03-14 23:53:00,10081.87,PayPal Transfer,Transfer,Toronto,flagged,True,77940.0
+TXN0035,ACC5034,2024-02-15 13:03:00,12092.7,Zelle,Transfer,Amsterdam,completed,True,
+TXN3659,ACC5034,2024-03-04 03:58:00,7677.41,Cash App,Transfer,Singapore,flagged,True,133800.0
+TXN0795,ACC5063,2024-02-19 05:49:00,5729.65,Venmo,Transfer,Las Vegas,completed,True,38040.0
+TXN1053,ACC5063,2024-02-20 11:53:00,5741.46,Western Union,Transfer,Toronto,flagged,True,37620.0
+TXN3057,ACC5063,2024-03-01 05:36:00,9600.7,Venmo,Transfer,Los Angeles,completed,True,101580.0
+TXN3481,ACC5063,2024-03-03 07:12:00,10763.84,Wire Transfer,Transfer,Chicago,flagged,True,101760.0
+TXN1546,ACC5095,2024-02-22 21:24:00,7868.43,Zelle,Transfer,Nashville,completed,True,40140.0
+TXN5270,ACC5095,2024-03-11 23:47:00,5627.41,Venmo,Transfer,Los Angeles,flagged,True,89100.0
+TXN0629,ACC5131,2024-02-18 10:26:00,11866.91,Western Union,Transfer,Nashville,completed,True,37260.0
+TXN2317,ACC5131,2024-02-26 15:17:00,9053.94,PayPal Transfer,Transfer,Denver,completed,True,69540.0
+TXN2026,ACC5258,2024-02-25 05:26:00,10291.86,Cash App,Transfer,Cleveland,completed,True,23040.0
+TXN2784,ACC5258,2024-02-28 21:47:00,10054.78,Zelle,Transfer,Los Angeles,flagged,True,156480.0
+TXN4838,ACC5258,2024-03-09 21:25:00,9064.28,Zelle,Transfer,Mexico City,flagged,True,121140.0
+TXN5198,ACC5258,2024-03-11 15:27:00,6231.0,Wire Transfer,Transfer,Tokyo,pending,True,119700.0
+TXN5626,ACC5258,2024-03-13 17:26:00,11453.69,Cash App,Transfer,Mumbai,completed,True,139980.0
+TXN5906,ACC5258,2024-03-15 02:06:00,5436.11,Cash App,Transfer,Madrid,completed,True,74280.0
+TXN0914,ACC5298,2024-02-19 19:38:00,13450.83,Zelle,Transfer,Dubai,completed,True,36060.0
+TXN2611,ACC5298,2024-02-28 01:40:00,8041.44,Wire Transfer,Transfer,San Francisco,completed,True,150120.0
+TXN4240,ACC5298,2024-03-06 23:39:00,10032.03,Zelle,Transfer,Miami,completed,True,30540.0
+TXN0581,ACC5385,2024-02-18 04:42:00,10325.63,PayPal Transfer,Transfer,Amsterdam,flagged,True,127020.0
+TXN1264,ACC5385,2024-02-21 12:33:00,8936.29,Bank Transfer,Transfer,Phoenix,flagged,True,211920.0
+TXN5447,ACC5385,2024-03-12 20:31:00,9824.76,Cash App,Transfer,Orlando,pending,True,101580.0
+TXN1840,ACC5389,2024-02-24 07:35:00,7546.19,Zelle,Transfer,London,flagged,True,45780.0
+TXN2966,ACC5389,2024-02-29 19:04:00,7769.13,PayPal Transfer,Transfer,Cleveland,completed,True,173100.0
+TXN1268,ACC5538,2024-02-21 12:58:00,13707.95,Western Union,Transfer,Phoenix,completed,True,56100.0
+TXN1434,ACC5538,2024-02-22 08:15:00,6814.47,Bank Transfer,Transfer,Dubai,flagged,True,69420.0
+TXN4574,ACC5538,2024-03-08 14:37:00,14120.92,PayPal Transfer,Transfer,Las Vegas,completed,True,85980.0
+TXN5333,ACC5538,2024-03-12 07:07:00,6881.7,Western Union,Transfer,Dubai,completed,True,4200.0
+TXN5863,ACC5538,2024-03-14 20:59:00,5512.64,Cash App,Transfer,Charlotte,pending,True,87660.0
+TXN4666,ACC5602,2024-03-09 01:20:00,5424.92,Zelle,Transfer,Mexico City,completed,True,37020.0
+TXN2927,ACC5625,2024-02-29 14:27:00,6021.21,Western Union,Transfer,Tokyo,pending,True,67740.0
+TXN4206,ACC5625,2024-03-06 19:46:00,8763.18,Zelle,Transfer,Dubai,completed,True,51600.0
+TXN5768,ACC5625,2024-03-14 09:58:00,10670.22,Western Union,Transfer,Chicago,flagged,True,49980.0
+TXN0006,ACC5634,2024-02-15 09:46:00,11947.29,MoneyGram,Transfer,Dubai,completed,True,
+TXN1510,ACC5634,2024-02-22 17:08:00,6311.84,MoneyGram,Transfer,Dubai,completed,True,41040.0
+TXN3925,ACC5634,2024-03-05 10:53:00,12160.02,Cash App,Transfer,Nashville,flagged,True,82380.0
+TXN0527,ACC5647,2024-02-17 22:26:00,5019.87,Bank Transfer,Transfer,Chicago,completed,True,42840.0
+TXN0799,ACC5647,2024-02-19 06:08:00,5569.09,Cash App,Transfer,San Francisco,completed,True,114120.0
+TXN0843,ACC5647,2024-02-19 11:25:00,12832.96,Venmo,Transfer,Toronto,flagged,True,8880.0
+TXN3183,ACC5647,2024-03-01 20:26:00,9304.7,Venmo,Transfer,Sydney,completed,True,120720.0
+TXN5407,ACC5647,2024-03-12 15:49:00,13864.07,Venmo,Transfer,Mumbai,flagged,True,25020.0
+TXN0928,ACC5671,2024-02-19 21:11:00,13381.24,Western Union,Transfer,Houston,flagged,True,17160.0
+TXN5099,ACC5915,2024-03-11 03:52:00,8517.21,Bank Transfer,Transfer,Singapore,flagged,True,46140.0
+TXN0656,ACC5946,2024-02-18 13:28:00,5042.41,PayPal Transfer,Transfer,Houston,pending,True,2100.0
+TXN1342,ACC5946,2024-02-21 21:33:00,13398.44,Wire Transfer,Transfer,Miami,flagged,True,7380.0
+TXN3863,ACC5946,2024-03-05 03:44:00,12749.9,Zelle,Transfer,Cleveland,completed,True,140040.0
+TXN5491,ACC5946,2024-03-13 01:32:00,6466.1,Bank Transfer,Transfer,Chicago,flagged,True,16320.0
+TXN0232,ACC6044,2024-02-16 12:02:00,13967.3,Wire Transfer,Transfer,Houston,completed,True,49320.0
+TXN5786,ACC6044,2024-03-14 11:58:00,10843.33,Bank Transfer,Transfer,Tokyo,completed,True,425340.0
+TXN5191,ACC6047,2024-03-11 14:32:00,9514.42,PayPal Transfer,Transfer,San Francisco,completed,True,40800.0
+TXN5829,ACC6047,2024-03-14 16:58:00,9620.06,PayPal Transfer,Transfer,Minneapolis,flagged,True,203460.0
+TXN0223,ACC6072,2024-02-16 10:58:00,6508.04,PayPal Transfer,Transfer,Houston,completed,True,
+TXN1760,ACC6072,2024-02-23 22:23:00,6356.8,Venmo,Transfer,Phoenix,completed,True,6600.0
+TXN1805,ACC6140,2024-02-24 03:33:00,6548.72,Bank Transfer,Transfer,Portland,completed,True,21420.0
+TXN2780,ACC6140,2024-02-28 21:24:00,13186.48,Wire Transfer,Transfer,Philadelphia,flagged,True,35280.0
+TXN3690,ACC6140,2024-03-04 07:34:00,8877.63,Venmo,Transfer,Seattle,completed,True,9180.0
+TXN0757,ACC6300,2024-02-19 01:16:00,11472.47,Western Union,Transfer,Nashville,completed,True,49140.0
+TXN0992,ACC6300,2024-02-20 04:46:00,5864.76,Bank Transfer,Transfer,Miami,pending,True,56700.0
+TXN1218,ACC6300,2024-02-21 07:04:00,14174.35,Western Union,Transfer,Seattle,flagged,True,38640.0
+TXN4837,ACC6311,2024-03-09 21:21:00,9740.6,Zelle,Transfer,Rome,flagged,True,129180.0
+TXN4139,ACC6351,2024-03-06 11:49:00,7068.18,Venmo,Transfer,Dallas,completed,True,20640.0
+TXN4426,ACC6351,2024-03-07 21:23:00,12245.91,MoneyGram,Transfer,Philadelphia,completed,True,120840.0
+TXN5356,ACC6411,2024-03-12 09:52:00,7895.82,Wire Transfer,Transfer,New York,completed,True,20400.0
+TXN0387,ACC6469,2024-02-17 06:09:00,5855.55,Bank Transfer,Transfer,Cleveland,flagged,True,
+TXN2501,ACC6469,2024-02-27 12:49:00,8552.94,MoneyGram,Transfer,Nashville,pending,True,169200.0
+TXN2519,ACC6469,2024-02-27 14:56:00,12586.49,MoneyGram,Transfer,Mumbai,completed,True,7620.0
+TXN4729,ACC6469,2024-03-09 08:41:00,12180.69,Zelle,Transfer,Lagos,flagged,True,5400.0
+TXN1061,ACC6494,2024-02-20 12:51:00,11213.87,Wire Transfer,Transfer,Detroit,flagged,True,101580.0
+TXN1788,ACC6494,2024-02-24 01:41:00,9595.17,Bank Transfer,Transfer,Paris,flagged,True,105960.0
+TXN2936,ACC6494,2024-02-29 15:31:00,8389.89,PayPal Transfer,Transfer,Charlotte,completed,True,162660.0
+TXN0041,ACC6517,2024-02-15 13:48:00,9425.18,Cash App,Transfer,Chicago,completed,True,
+TXN0801,ACC6531,2024-02-19 06:26:00,7746.11,MoneyGram,Transfer,Amsterdam,flagged,True,183540.0
+TXN3001,ACC6531,2024-02-29 23:04:00,10930.41,Venmo,Transfer,Dallas,flagged,True,11340.0
+TXN3174,ACC6531,2024-03-01 19:14:00,10459.38,Wire Transfer,Transfer,Orlando,pending,True,35160.0
+TXN2335,ACC6535,2024-02-26 17:20:00,13049.62,Wire Transfer,Transfer,San Francisco,completed,True,127260.0
+TXN4284,ACC6535,2024-03-07 04:49:00,14423.07,Venmo,Transfer,San Antonio,completed,True,124380.0
+TXN2104,ACC6537,2024-02-25 14:26:00,11433.97,PayPal Transfer,Transfer,Cleveland,flagged,True,105060.0
+TXN2272,ACC6651,2024-02-26 10:08:00,10431.78,Bank Transfer,Transfer,Phoenix,completed,True,81900.0
+TXN4381,ACC6651,2024-03-07 16:12:00,5516.14,Bank Transfer,Transfer,San Antonio,completed,True,2940.0
+TXN5728,ACC6651,2024-03-14 05:20:00,6075.68,Zelle,Transfer,Los Angeles,completed,True,26160.0
+TXN0375,ACC6766,2024-02-17 04:40:00,7397.29,Wire Transfer,Transfer,Minneapolis,pending,True,
+TXN0753,ACC6766,2024-02-19 00:51:00,8519.69,Cash App,Transfer,Orlando,completed,True,84720.0
+TXN3428,ACC6766,2024-03-03 00:57:00,10019.07,Bank Transfer,Transfer,Denver,pending,True,59580.0
+TXN3736,ACC6803,2024-03-04 12:54:00,5106.21,Western Union,Transfer,Boston,pending,True,41400.0
+TXN2006,ACC6841,2024-02-25 03:00:00,6145.29,PayPal Transfer,Transfer,Bangkok,completed,True,178560.0
+TXN2101,ACC6841,2024-02-25 14:12:00,14921.41,Western Union,Transfer,Seattle,completed,True,40320.0
+TXN2169,ACC6841,2024-02-25 22:05:00,9250.28,Bank Transfer,Transfer,Boston,completed,True,28380.0
+TXN0171,ACC6883,2024-02-16 04:54:00,11468.81,PayPal Transfer,Transfer,Detroit,completed,True,15660.0
+TXN0545,ACC6910,2024-02-18 00:30:00,7451.5,MoneyGram,Transfer,Miami,flagged,True,27240.0
+TXN1049,ACC6910,2024-02-20 11:20:00,9737.01,PayPal Transfer,Transfer,Madrid,completed,True,54300.0
+TXN1230,ACC6910,2024-02-21 08:29:00,11335.15,Venmo,Transfer,New York,completed,True,76140.0
+TXN1601,ACC6910,2024-02-23 03:49:00,5855.85,PayPal Transfer,Transfer,Berlin,completed,True,74700.0
+TXN2142,ACC6910,2024-02-25 18:50:00,8295.28,MoneyGram,Transfer,San Antonio,flagged,True,2820.0
+TXN5671,ACC6910,2024-03-13 22:41:00,7571.9,PayPal Transfer,Transfer,Orlando,pending,True,109200.0
+TXN3191,ACC6912,2024-03-01 21:21:00,13561.29,Zelle,Transfer,Seattle,flagged,True,104100.0
+TXN4088,ACC6912,2024-03-06 05:54:00,5308.54,MoneyGram,Transfer,Mexico City,completed,True,136920.0
+TXN5601,ACC6912,2024-03-13 14:23:00,13813.27,Zelle,Transfer,San Diego,completed,True,140400.0
+TXN5883,ACC6912,2024-03-14 23:16:00,9377.7,PayPal Transfer,Transfer,Portland,completed,True,62940.0
+TXN0706,ACC6916,2024-02-18 19:22:00,10027.72,Zelle,Transfer,London,completed,True,195600.0
+TXN1146,ACC6916,2024-02-20 22:41:00,12526.39,MoneyGram,Transfer,Mexico City,flagged,True,81900.0
+TXN1649,ACC6916,2024-02-23 09:28:00,13857.68,Cash App,Transfer,Lagos,completed,True,32700.0
+TXN3470,ACC6916,2024-03-03 05:45:00,13358.8,Zelle,Transfer,Sydney,completed,True,21720.0
+TXN0665,ACC7056,2024-02-18 14:40:00,12084.23,PayPal Transfer,Transfer,Phoenix,completed,True,11640.0
+TXN1946,ACC7056,2024-02-24 20:02:00,14368.96,Cash App,Transfer,Chicago,completed,True,39420.0
+TXN5561,ACC7056,2024-03-13 09:49:00,6574.86,Western Union,Transfer,Rome,flagged,True,118740.0
+TXN2770,ACC7074,2024-02-28 20:06:00,6830.08,PayPal Transfer,Transfer,Nashville,completed,True,38280.0
+TXN3795,ACC7074,2024-03-04 19:43:00,7278.51,PayPal Transfer,Transfer,Lagos,completed,True,49860.0
+TXN3808,ACC7074,2024-03-04 21:18:00,14673.04,MoneyGram,Transfer,Miami,flagged,True,5700.0
+TXN4527,ACC7074,2024-03-08 09:14:00,14874.73,Bank Transfer,Transfer,Portland,completed,True,35640.0
+TXN4878,ACC7127,2024-03-10 02:01:00,1150.17,Mortgage Payment,Housing,Las Vegas,completed,True,420.0
+TXN0773,ACC7167,2024-02-19 03:16:00,10561.99,MoneyGram,Transfer,Bangkok,completed,True,65580.0
+TXN0816,ACC7167,2024-02-19 08:14:00,9699.43,Wire Transfer,Transfer,Miami,completed,True,17880.0
+TXN0860,ACC7167,2024-02-19 13:15:00,8915.07,PayPal Transfer,Transfer,Rome,completed,True,18060.0
+TXN2536,ACC7181,2024-02-27 16:57:00,7650.83,Western Union,Transfer,Detroit,completed,True,54720.0
+TXN3868,ACC7181,2024-03-05 04:15:00,8872.63,Venmo,Transfer,Mumbai,completed,True,252180.0
+TXN5179,ACC7181,2024-03-11 13:08:00,14652.05,PayPal Transfer,Transfer,Los Angeles,completed,True,288840.0
+TXN5287,ACC7181,2024-03-12 01:50:00,14053.65,PayPal Transfer,Transfer,Mumbai,pending,True,38580.0
+TXN5234,ACC7243,2024-03-11 19:36:00,5418.91,Wire Transfer,Transfer,Las Vegas,completed,True,10560.0
+TXN0424,ACC7249,2024-02-17 10:24:00,14351.97,Zelle,Transfer,Rome,completed,True,
+TXN1724,ACC7249,2024-02-23 18:10:00,11307.42,Zelle,Transfer,Paris,completed,True,18300.0
+TXN2560,ACC7249,2024-02-27 19:35:00,9515.55,PayPal Transfer,Transfer,Sydney,completed,True,233880.0
+TXN2792,ACC7249,2024-02-28 22:39:00,8655.46,Venmo,Transfer,Charlotte,completed,True,97440.0
+TXN4243,ACC7249,2024-03-07 00:05:00,5962.95,Bank Transfer,Transfer,Houston,completed,True,35220.0
+TXN2166,ACC7283,2024-02-25 21:39:00,13636.93,Wire Transfer,Transfer,Chicago,completed,True,10920.0
+TXN4371,ACC7283,2024-03-07 14:57:00,14165.81,Bank Transfer,Transfer,San Antonio,completed,True,113940.0
+TXN5723,ACC7283,2024-03-14 04:42:00,9155.13,Wire Transfer,Transfer,Austin,flagged,True,59100.0
+TXN3805,ACC7355,2024-03-04 20:58:00,4943.06,Maintenance Fee,Housing,Amsterdam,completed,True,60.0
+TXN3817,ACC7441,2024-03-04 22:17:00,14572.56,Wire Transfer,Transfer,Berlin,completed,True,162420.0
+TXN1897,ACC7465,2024-02-24 14:24:00,14348.99,Zelle,Transfer,Las Vegas,completed,True,294660.0
+TXN3577,ACC7465,2024-03-03 18:19:00,7807.35,Cash App,Transfer,Berlin,completed,True,221760.0
+TXN0605,ACC7501,2024-02-18 07:33:00,7921.23,MoneyGram,Transfer,Mumbai,completed,True,44580.0
+TXN1868,ACC7501,2024-02-24 10:56:00,11868.6,Wire Transfer,Transfer,Toronto,completed,True,128100.0
+TXN2331,ACC7501,2024-02-26 17:01:00,12579.26,MoneyGram,Transfer,Orlando,completed,True,149580.0
+TXN5938,ACC7501,2024-03-15 05:44:00,6279.15,Bank Transfer,Transfer,Mumbai,completed,True,93300.0
+TXN2230,ACC7503,2024-02-26 05:11:00,9056.72,PayPal Transfer,Transfer,Cleveland,completed,True,2640.0
+TXN2849,ACC7510,2024-02-29 05:22:00,8066.01,Venmo,Transfer,Bangkok,completed,True,129480.0
+TXN3416,ACC7511,2024-03-02 23:33:00,14310.31,MoneyGram,Transfer,Bangkok,completed,True,378420.0
+TXN0514,ACC7559,2024-02-17 20:55:00,10732.73,Venmo,Transfer,Mumbai,pending,True,147660.0
+TXN4494,ACC7559,2024-03-08 05:14:00,12401.74,Zelle,Transfer,Sydney,completed,True,4140.0
+TXN4806,ACC7559,2024-03-09 17:45:00,14266.21,Bank Transfer,Transfer,San Francisco,flagged,True,119880.0
+TXN4955,ACC7559,2024-03-10 11:09:00,11852.36,Zelle,Transfer,Sydney,flagged,True,62640.0
+TXN5442,ACC7561,2024-03-12 19:51:00,8410.92,MoneyGram,Transfer,Rome,flagged,True,193260.0
+TXN0603,ACC7614,2024-02-18 07:20:00,9385.3,Cash App,Transfer,Berlin,completed,True,
+TXN2369,ACC7614,2024-02-26 21:22:00,13482.68,Venmo,Transfer,Sydney,flagged,True,44580.0
+TXN4021,ACC7614,2024-03-05 22:06:00,6921.8,MoneyGram,Transfer,Tokyo,flagged,True,102720.0
+TXN5267,ACC7614,2024-03-11 23:28:00,13217.28,Wire Transfer,Transfer,Amsterdam,completed,True,7800.0
+TXN5632,ACC7614,2024-03-13 18:03:00,6728.11,Zelle,Transfer,Denver,completed,True,103260.0
+TXN0947,ACC7720,2024-02-19 23:26:00,13193.62,Bank Transfer,Transfer,Singapore,flagged,True,19440.0
+TXN2493,ACC7720,2024-02-27 11:50:00,11516.93,PayPal Transfer,Transfer,New York,pending,True,483060.0
+TXN4843,ACC7720,2024-03-09 22:01:00,12629.25,PayPal Transfer,Transfer,Boston,completed,True,27960.0
+TXN0007,ACC7747,2024-02-15 09:45:00,1139.18,Rite Aid,Healthcare,Charlotte,completed,True,300.0
+TXN4905,ACC7747,2024-03-10 05:16:00,9807.97,Western Union,Transfer,Singapore,completed,True,37140.0
+TXN5055,ACC7747,2024-03-10 22:49:00,9576.49,PayPal Transfer,Transfer,Denver,flagged,True,63180.0
+TXN2027,ACC7769,2024-02-25 05:29:00,14254.77,MoneyGram,Transfer,Mumbai,completed,True,59460.0
+TXN2417,ACC7769,2024-02-27 03:01:00,5407.49,Cash App,Transfer,San Francisco,completed,True,163920.0
+TXN2573,ACC7769,2024-02-27 21:14:00,6383.76,Zelle,Transfer,Orlando,completed,True,8760.0
+TXN0846,ACC7885,2024-02-19 11:38:00,6795.82,Zelle,Transfer,Boston,flagged,True,45720.0
+TXN1278,ACC7885,2024-02-21 14:11:00,11330.56,Bank Transfer,Transfer,Boston,completed,True,54240.0
+TXN1914,ACC7885,2024-02-24 16:13:00,10158.74,Venmo,Transfer,Chicago,completed,True,266520.0
+TXN0765,ACC7906,2024-02-19 02:11:00,14042.85,MoneyGram,Transfer,Portland,flagged,True,105060.0
+TXN1234,ACC7906,2024-02-21 08:59:00,9213.57,Wire Transfer,Transfer,Cleveland,flagged,True,7500.0
+TXN3066,ACC7906,2024-03-01 06:40:00,13496.86,Western Union,Transfer,Tokyo,completed,True,7500.0
+TXN4998,ACC7906,2024-03-10 16:06:00,10322.23,PayPal Transfer,Transfer,Tampa,flagged,True,31200.0
+TXN2457,ACC7964,2024-02-27 07:34:00,7528.83,Cash App,Transfer,Denver,completed,True,188280.0
+TXN1443,ACC8008,2024-02-22 09:25:00,13176.24,Venmo,Transfer,Cleveland,completed,True,67980.0
+TXN2441,ACC8008,2024-02-27 05:48:00,14527.51,Bank Transfer,Transfer,Lagos,completed,True,65520.0
+TXN3160,ACC8008,2024-03-01 17:39:00,13807.6,Zelle,Transfer,Madrid,flagged,True,301860.0
+TXN1541,ACC8122,2024-02-22 20:42:00,13890.96,Wire Transfer,Transfer,Portland,completed,True,7380.0
+TXN4383,ACC8122,2024-03-07 16:19:00,10380.54,Cash App,Transfer,Boston,flagged,True,62040.0
+TXN4755,ACC8122,2024-03-09 11:45:00,13784.24,MoneyGram,Transfer,Orlando,pending,True,38820.0
+TXN0537,ACC8156,2024-02-17 23:36:00,7142.36,Bank Transfer,Transfer,Boston,completed,True,94860.0
+TXN0747,ACC8156,2024-02-19 00:07:00,6527.31,Zelle,Transfer,Miami,pending,True,65220.0
+TXN3455,ACC8156,2024-03-03 04:06:00,7212.58,Cash App,Transfer,London,completed,True,9120.0
+TXN4733,ACC8156,2024-03-09 09:12:00,6855.1,Western Union,Transfer,San Diego,flagged,True,136560.0
+TXN0573,ACC8242,2024-02-18 03:49:00,6853.53,Wire Transfer,Transfer,Minneapolis,completed,True,91320.0
+TXN4890,ACC8242,2024-03-10 03:28:00,14035.42,Wire Transfer,Transfer,San Antonio,flagged,True,24540.0
+TXN5718,ACC8242,2024-03-14 04:08:00,10342.91,Cash App,Transfer,San Francisco,pending,True,109200.0
+TXN5822,ACC8242,2024-03-14 16:12:00,11291.18,Western Union,Transfer,San Antonio,flagged,True,43440.0
+TXN5993,ACC8242,2024-03-15 12:09:00,9261.75,MoneyGram,Transfer,Paris,completed,True,34380.0
+TXN0183,ACC8377,2024-02-16 06:23:00,10775.53,PayPal Transfer,Transfer,Toronto,completed,True,71940.0
+TXN2032,ACC8377,2024-02-25 05:59:00,11950.97,PayPal Transfer,Transfer,Minneapolis,pending,True,16680.0
+TXN0536,ACC8390,2024-02-17 23:37:00,8971.98,Venmo,Transfer,Minneapolis,completed,True,14100.0
+TXN2400,ACC8390,2024-02-27 01:04:00,14186.61,Western Union,Transfer,San Francisco,flagged,True,90660.0
+TXN4170,ACC8393,2024-03-06 15:32:00,6713.07,Venmo,Transfer,San Antonio,flagged,True,68580.0
+TXN5303,ACC8393,2024-03-12 03:44:00,8213.53,MoneyGram,Transfer,Las Vegas,completed,True,49380.0
+TXN5957,ACC8393,2024-03-15 07:57:00,8860.73,Venmo,Transfer,Dallas,flagged,True,274380.0
+TXN4511,ACC8395,2024-03-08 07:16:00,8213.07,Cash App,Transfer,Denver,completed,True,19920.0
+TXN5974,ACC8395,2024-03-15 09:57:00,13477.3,Cash App,Transfer,Bangkok,completed,True,96060.0
+TXN2530,ACC8405,2024-02-27 16:05:00,5947.39,MoneyGram,Transfer,Bangkok,completed,True,10440.0
+TXN3635,ACC8405,2024-03-04 01:04:00,13123.09,PayPal Transfer,Transfer,Miami,completed,True,11160.0
+TXN4575,ACC8405,2024-03-08 14:44:00,11297.65,PayPal Transfer,Transfer,Orlando,flagged,True,9900.0
+TXN4598,ACC8405,2024-03-08 17:26:00,13438.03,Wire Transfer,Transfer,Orlando,completed,True,4260.0
+TXN1535,ACC8408,2024-02-22 20:09:00,9217.96,Western Union,Transfer,Tokyo,flagged,True,319500.0
+TXN2358,ACC8463,2024-02-26 20:06:00,13118.69,Wire Transfer,Transfer,Cleveland,flagged,True,64140.0
+TXN3503,ACC8463,2024-03-03 09:45:00,7230.63,Cash App,Transfer,New York,pending,True,108420.0
+TXN4429,ACC8490,2024-03-07 21:40:00,9207.73,Cash App,Transfer,Mexico City,flagged,True,83160.0
+TXN0184,ACC8530,2024-02-16 06:28:00,7644.81,Zelle,Transfer,Berlin,flagged,True,38460.0
+TXN4209,ACC8530,2024-03-06 20:05:00,6423.51,Wire Transfer,Transfer,Los Angeles,flagged,True,195600.0
+TXN1999,ACC8534,2024-02-25 02:08:00,8429.65,Zelle,Transfer,Houston,completed,True,28200.0
+TXN2945,ACC8534,2024-02-29 16:30:00,8034.41,Zelle,Transfer,Lagos,completed,True,31380.0
+TXN5097,ACC8534,2024-03-11 03:44:00,10090.06,Cash App,Transfer,Tampa,completed,True,90300.0
+TXN4763,ACC8536,2024-03-09 12:41:00,12736.19,Western Union,Transfer,Portland,pending,True,57000.0
+TXN5241,ACC8536,2024-03-11 20:27:00,5117.58,Western Union,Transfer,Toronto,completed,True,57420.0
+TXN0668,ACC8589,2024-02-18 14:54:00,13397.88,Western Union,Transfer,Houston,completed,True,
+TXN4009,ACC8635,2024-03-05 20:45:00,14310.61,PayPal Transfer,Transfer,Las Vegas,flagged,True,45840.0
+TXN4483,ACC8635,2024-03-08 03:59:00,10841.17,Bank Transfer,Transfer,Madrid,completed,True,33240.0
+TXN3368,ACC8671,2024-03-02 17:52:00,6645.06,Wire Transfer,Transfer,Berlin,completed,True,56220.0
+TXN1454,ACC8711,2024-02-22 10:43:00,12186.94,Venmo,Transfer,London,completed,True,50280.0
+TXN2079,ACC8711,2024-02-25 11:33:00,7277.82,PayPal Transfer,Transfer,Chicago,completed,True,90840.0
+TXN2446,ACC8711,2024-02-27 06:25:00,14921.98,PayPal Transfer,Transfer,Philadelphia,completed,True,71280.0
+TXN3975,ACC8711,2024-03-05 16:43:00,11221.78,Zelle,Transfer,Lagos,flagged,True,51960.0
+TXN3996,ACC8711,2024-03-05 19:07:00,9713.86,Venmo,Transfer,Dallas,completed,True,8640.0
+TXN5886,ACC8711,2024-03-14 23:47:00,6932.65,Zelle,Transfer,Paris,flagged,True,15720.0
+TXN1846,ACC8952,2024-02-24 08:25:00,6847.42,Wire Transfer,Transfer,Tampa,completed,True,6240.0
+TXN4103,ACC8952,2024-03-06 07:41:00,8544.37,MoneyGram,Transfer,Amsterdam,completed,True,406740.0
+TXN4437,ACC8952,2024-03-07 22:36:00,10741.18,PayPal Transfer,Transfer,Tokyo,completed,True,140100.0
+TXN3528,ACC8988,2024-03-03 12:33:00,5673.83,PayPal Transfer,Transfer,Paris,completed,True,187260.0
+TXN4717,ACC8988,2024-03-09 07:16:00,11258.32,MoneyGram,Transfer,London,completed,True,8940.0
+TXN2175,ACC9087,2024-02-25 22:45:00,1122.6,Maintenance Fee,Housing,Chicago,pending,True,540.0
+TXN5679,ACC9087,2024-03-13 23:32:00,7756.29,Bank Transfer,Transfer,Singapore,flagged,True,11220.0
+TXN3751,ACC9139,2024-03-04 14:39:00,6100.07,MoneyGram,Transfer,Dubai,completed,True,179220.0
+TXN5825,ACC9139,2024-03-14 16:33:00,7384.29,Venmo,Transfer,Nashville,flagged,True,57900.0
+TXN3184,ACC9224,2024-03-01 20:23:00,14133.74,MoneyGram,Transfer,Las Vegas,flagged,True,24180.0
+TXN4960,ACC9224,2024-03-10 11:42:00,13297.79,Western Union,Transfer,Philadelphia,completed,True,16440.0
+TXN3901,ACC9226,2024-03-05 08:11:00,5363.63,Cash App,Transfer,Rome,completed,True,102600.0
+TXN3076,ACC9265,2024-03-01 07:55:00,14672.86,Zelle,Transfer,Dubai,completed,True,207780.0
+TXN0270,ACC9334,2024-02-16 16:28:00,14718.22,Cash App,Transfer,Portland,completed,True,42720.0
+TXN3172,ACC9334,2024-03-01 19:08:00,9662.89,Zelle,Transfer,San Diego,completed,True,36840.0
+TXN5155,ACC9334,2024-03-11 10:25:00,8613.66,Cash App,Transfer,London,flagged,True,182520.0
+TXN5781,ACC9338,2024-03-14 11:30:00,10625.11,MoneyGram,Transfer,Miami,completed,True,780360.0
+TXN5984,ACC9338,2024-03-15 11:09:00,12348.88,PayPal Transfer,Transfer,Tokyo,completed,True,15900.0
+TXN0416,ACC9349,2024-02-17 09:32:00,12379.88,Zelle,Transfer,Los Angeles,completed,True,103440.0
+TXN3504,ACC9349,2024-03-03 09:46:00,6843.31,MoneyGram,Transfer,Lagos,flagged,True,7740.0
+TXN4439,ACC9349,2024-03-07 22:58:00,10536.95,PayPal Transfer,Transfer,Madrid,completed,True,55380.0
+TXN1818,ACC9351,2024-02-24 05:05:00,12347.89,MoneyGram,Transfer,Toronto,completed,True,14520.0
+TXN1903,ACC9351,2024-02-24 15:02:00,8290.08,Venmo,Transfer,Madrid,pending,True,4080.0
+TXN2902,ACC9351,2024-02-29 11:30:00,11177.13,Bank Transfer,Transfer,Miami,completed,True,119220.0
+TXN4518,ACC9351,2024-03-08 08:02:00,14066.14,Venmo,Transfer,Amsterdam,flagged,True,113880.0
+TXN5380,ACC9398,2024-03-12 12:38:00,6924.58,PayPal Transfer,Transfer,Las Vegas,completed,True,36600.0
+TXN5409,ACC9398,2024-03-12 16:00:00,11828.18,Western Union,Transfer,Sydney,flagged,True,12120.0
+TXN2025,ACC9416,2024-02-25 05:11:00,7970.34,PayPal Transfer,Transfer,Orlando,completed,True,1260.0
+TXN2834,ACC9416,2024-02-29 03:41:00,5041.48,Cash App,Transfer,Toronto,pending,True,53280.0
+TXN0619,ACC9456,2024-02-18 09:12:00,14646.61,Wire Transfer,Transfer,Rome,pending,True,197940.0
+TXN0748,ACC9456,2024-02-19 00:17:00,11882.22,Cash App,Transfer,Denver,completed,True,54300.0
+TXN1291,ACC9456,2024-02-21 15:42:00,4726.74,HOA Fee,Housing,Miami,pending,True,540.0
+TXN1989,ACC9456,2024-02-25 00:59:00,8419.45,Wire Transfer,Transfer,Rome,pending,True,135060.0
+TXN2425,ACC9472,2024-02-27 03:55:00,9005.63,Wire Transfer,Transfer,Seattle,pending,True,91440.0
+TXN3495,ACC9472,2024-03-03 08:41:00,12516.83,MoneyGram,Transfer,Los Angeles,pending,True,39060.0
+TXN5667,ACC9472,2024-03-13 22:12:00,8595.1,Bank Transfer,Transfer,Boston,flagged,True,30420.0
+TXN5847,ACC9472,2024-03-14 19:09:00,13736.28,MoneyGram,Transfer,Minneapolis,completed,True,75420.0
+TXN4097,ACC9544,2024-03-06 06:54:00,11274.66,Bank Transfer,Transfer,Seattle,completed,True,99780.0
+TXN0027,ACC9562,2024-02-15 12:05:00,8782.84,Cash App,Transfer,Portland,completed,True,
+TXN0173,ACC9562,2024-02-16 05:12:00,13453.03,Bank Transfer,Transfer,Phoenix,pending,True,34200.0
+TXN1577,ACC9607,2024-02-23 01:03:00,13826.72,Zelle,Transfer,Denver,completed,True,33660.0
+TXN2042,ACC9607,2024-02-25 07:10:00,11886.34,Western Union,Transfer,Tampa,flagged,True,126960.0
+TXN3170,ACC9607,2024-03-01 18:46:00,5000.5,Venmo,Transfer,Charlotte,completed,True,108000.0
+TXN5367,ACC9607,2024-03-12 11:12:00,13562.81,MoneyGram,Transfer,San Francisco,completed,True,111600.0
+TXN1087,ACC9636,2024-02-20 15:53:00,11806.02,Venmo,Transfer,Singapore,completed,True,13380.0
+TXN1273,ACC9636,2024-02-21 13:36:00,2187.74,Home Insurance,Housing,Las Vegas,flagged,True,120.0
+TXN2605,ACC9636,2024-02-28 00:54:00,7343.98,Wire Transfer,Transfer,Toronto,flagged,True,119400.0
+TXN3755,ACC9636,2024-03-04 15:02:00,12202.75,Venmo,Transfer,Boston,flagged,True,42360.0
+TXN2946,ACC9641,2024-02-29 16:47:00,13446.74,Venmo,Transfer,Minneapolis,flagged,True,95160.0
+TXN4932,ACC9641,2024-03-10 08:26:00,14643.99,PayPal Transfer,Transfer,Las Vegas,flagged,True,247380.0
+TXN0283,ACC9727,2024-02-16 17:59:00,6126.68,Venmo,Transfer,Dubai,pending,True,14880.0
+TXN3724,ACC9770,2024-03-04 11:30:00,11120.27,Zelle,Transfer,Miami,completed,True,8280.0
+TXN0250,ACC9829,2024-02-16 14:08:00,14249.91,Venmo,Transfer,Tampa,completed,True,
+TXN4537,ACC9872,2024-03-08 10:14:00,6604.33,Venmo,Transfer,Amsterdam,flagged,True,59700.0
+TXN0449,ACC9875,2024-02-17 13:27:00,11342.2,MoneyGram,Transfer,Amsterdam,completed,True,41160.0
+TXN3656,ACC9875,2024-03-04 03:35:00,14451.53,Bank Transfer,Transfer,Dubai,flagged,True,11460.0
+TXN0355,ACC9927,2024-02-17 02:26:00,7203.59,Wire Transfer,Transfer,Rome,completed,True,23040.0
+TXN2499,ACC9927,2024-02-27 12:36:00,10967.25,Cash App,Transfer,Austin,completed,True,18840.0
+TXN4117,ACC9927,2024-03-06 09:15:00,14435.87,Cash App,Transfer,Houston,flagged,True,116940.0
+TXN4811,ACC9927,2024-03-09 18:12:00,10664.49,Bank Transfer,Transfer,San Francisco,completed,True,75180.0
+TXN5219,ACC9927,2024-03-11 17:50:00,10725.82,Cash App,Transfer,Dubai,completed,True,127320.0
+TXN0110,ACC9939,2024-02-15 21:47:00,10091.65,Wire Transfer,Transfer,Portland,completed,True,
+TXN3408,ACC9939,2024-03-02 22:36:00,10282.64,Bank Transfer,Transfer,Boston,completed,True,177960.0
+TXN3784,ACC9954,2024-03-04 18:28:00,13826.15,Cash App,Transfer,Denver,completed,True,57360.0

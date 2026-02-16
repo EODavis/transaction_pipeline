@@ -1,0 +1,5 @@
+[
+  {"account_id": "ACC2891", "name": "John Smith", "risk_level": "medium", "account_age_days": 450, "avg_monthly_spend": 3200},
+  {"account_id": "ACC4512", "name": "Sarah Chen", "risk_level": "low", "account_age_days": 890, "avg_monthly_spend": 1500},
+  {"account_id": "ACC7823", "name": "Mike Johnson", "risk_level": "low", "account_age_days": 1200, "avg_monthly_spend": 4500}
+]
